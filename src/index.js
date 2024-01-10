@@ -4,7 +4,9 @@ import ReactDOM from 'react-dom';
 
 import Main from './Components/Main';
 
-const tasks = ['take out','take in','oddo']
+import "./styles/stylesheet.css"
+
+
 
 
 // const element = React.createElement("ol",null,
